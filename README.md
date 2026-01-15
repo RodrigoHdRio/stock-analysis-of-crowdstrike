@@ -9,19 +9,19 @@ The analysis focuses on exploratory data analysis and interactive visualizations
 ## Tools & Libraries
 - Python
 - pandas
-- yfinance
-- plotly (express, graph_objects)
+- Yahoo Finance API (via yfinance)
+- Plotly
 
 ---
 
 ## Data
-Historical stock price data was retrieved programmatically using the `yfinance` library.  
+Historical stock price data was retrieved programmatically using the `yfinance` API.  
 No datasets are stored in this repository.
 
 ---
 
 ## Project Structure
-- `stock-analysis.ipynb` — main notebook containing data retrieval, analysis, and visualizations
+- `stock-analysis.ipynb` main notebook containing data retrieval, analysis, and visualizations
 
 ---
 
